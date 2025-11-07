@@ -1,0 +1,57 @@
+dog,animal
+cow,farm animal
+cat,animal
+horse,farm animal
+donkey,farm animal
+tiger,wild animal
+lion,wild animal
+panther,wild animal
+leopard,wild animal
+cheetah,wild animal
+strawberry,fruit
+apple,,fruit
+pear,fruit
+mango,fruit
+pomegranate,fruit
+avocado,fruit
+banana,fruit
+cherry,fruit
+orange,fruit
+peach,fruit
+bear,waild animal
+elephant,animal
+turtle,animal
+crocodile,wild animal
+rabbit,animal
+hen,bird
+pigeon,bird
+crow,bird
+fish,aquatic animal
+dolphin,aquatic animal
+grape,fruit
+watermelon,fruit
+kiwi,fruit
+coconut,fruit
+blueberry,fruit
+pineapple,fruit
+lemon,fruit
+cucumber,fruit
+carrot,fruit
+tomato,fruit
+frog,amphibious animal
+whale,aquatic animal
+eagle,bird
+squirrel,animal
+ostrich,bird
+fox,wild animal
+goat,farm animal
+eel,aquatic animal
+wolf,wild animal
+monkey,animal
+bat,bird
+giraffe,animal
+crab,amphibious animal
+shark,aquatic animal
+camel,animal
+deer,animal
+snake,waild animal
